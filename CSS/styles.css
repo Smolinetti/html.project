@@ -9,5 +9,23 @@ h1 {
 
 p {
     border: 3px solid Orange;
-    padding: 30px;
+    padding: 10px;
+    margin: 30px;
+}
+
+a {
+  font-size: 250%;
+  color: Orange;
+  background: brown;
+  border: 3px solid Blue;
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  font-size: 150%;
+  color: Black;
+  background: powderblue;
+  border: 3px solid Blue;
+  padding: 10px
 }
