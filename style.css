@@ -128,7 +128,8 @@ a {
 
   .nav h2,
   .slider h2 {
-    font-size: 3vw;
+    font-size: 2vw;
+    text-align: left;
   }
 
   .nav-tab {
